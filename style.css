@@ -1,0 +1,18 @@
+.img{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+  
+}
+.container{
+    border: 5px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+    flex-wrap: wrap;
+    align-items: center;
+    div{
+      border: 5px  blueviolet;
+    }
+}
+

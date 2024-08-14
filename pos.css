@@ -1,0 +1,67 @@
+.box1{
+    background-color: yellow;
+    height: 100px;
+    width: 70px;
+    margin: 5px;
+}
+.box2{
+    background-color:black;
+    height: 100px;
+    width: 70px;
+    margin: 5px;
+}
+.box3{
+    background-color:red;
+    height: 100px;
+    width: 70px;
+    margin: 5px;
+    position: relative;
+    top: 30px;
+    left: 10vh;
+}
+
+,div{
+    border: 3px solid black;
+    width: 100px;
+    height: 150px;
+    margin-top: 50px;
+    position: static;
+    left: 20px;
+    
+}
+
+<!---h1{
+    color: aqua;
+    padding: 20px;
+    position:absolute ;
+    top: 10pxPX;
+    left: 20px
+    
+    
+}
+.containe{
+    display: flex;
+    background-color: aqua;
+    flex-grow: 6;
+    flex-wrap: wrap;
+    max-width: 0 auto;
+    justify-content: space-evenly;
+   
+    
+   
+    
+    
+    
+    
+    
+    
+    
+
+}
+img{
+    display: flex;
+    width: 200px;
+    margin: 20px;
+    flex-basis: 25%;
+    flex-direction: wrap;
+}

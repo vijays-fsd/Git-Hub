@@ -1,0 +1,8 @@
+table{
+  background-color: blueviolet;
+  color: yellowgreen;
+
+  td{
+    border: 2px black;
+  }
+}
